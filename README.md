@@ -254,9 +254,11 @@ Route::get('/productos', [ProductoController::class, 'index']);
 ### Página de Inicio
 ![Página de Inicio](./screenshots/01-inicio.png)
 
+### Base de Datos MySQL (Tabla Productos)
+![Base de Datos](./screenshots/02-base-datos.png)
 
 ### Detalle de la Tabla de Productos
-![Tabla de Productos](./screenshots/02-tabla-productos.png)
+![Tabla de Productos](./screenshots/03-tabla-productos.png)
 
 ---
 
